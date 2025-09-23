@@ -30,8 +30,8 @@
 🙂 🚀 😎🚀🚀🚀🚀
 
 ## Произвольный элемент
-- https://i.pinimg.com/736x/25/5e/6e/255e6e83cb6e5270d959c1ba35769f43.jpg
-- https://i.pinimg.com/originals/81/3b/bc/813bbc37da422881e20563d144662555.jpg
+- !(https://i.pinimg.com/736x/25/5e/6e/255e6e83cb6e5270d959c1ba35769f43.jpg)
+- !(https://i.pinimg.com/originals/81/3b/bc/813bbc37da422881e20563d144662555.jpg)
 - Блоки кода:
 
 ```python
